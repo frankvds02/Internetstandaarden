@@ -177,14 +177,6 @@ footer ul {
   border-radius: 5px;
 }
 
-.teaser {
-  margin: 2em 10em 5em 0;
-  padding: 1em;
-  background-color: antiquewhite;
-  border: 1px solid black;
-  border-radius: 5px;
-}
-
 .overOns {
   display: flex;
 }
@@ -192,14 +184,6 @@ footer ul {
 iframe {
   width: 30vw;
   height: 30vh;
-}
-
-.bronvermelding {
-  margin: 2em 10em 5em 0;
-  padding: 1em 1em 1em 1em;
-  background-color: #faebd7;
-  border: 1px solid black;
-  border-radius: 5px;
 }
 
 .bron {
